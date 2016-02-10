@@ -1,5 +1,8 @@
 # Craftwork
 
+![Alt text](craftwork-thumb.jpg?raw=true "Craftwork - Font Download by DSGN.CO")
+
+
 A font Made by DSGN.CO
 Craftwork is free for personal use.
 
